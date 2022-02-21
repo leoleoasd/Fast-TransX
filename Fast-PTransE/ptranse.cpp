@@ -24,7 +24,7 @@ int dimension = 50;
 double ptranseAlpha = 0.001;
 double margin = 1;
 
-string inPath = "data/";
+string inPath = "data/FB15K/";
 string outPath = "res/";
 
 int *lefHead, *rigHead;

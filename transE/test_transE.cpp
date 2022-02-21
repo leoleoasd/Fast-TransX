@@ -17,9 +17,9 @@ using namespace std;
 
 long relationTotal;
 long entityTotal;
-long Threads = 8;
-long dimensionR = 100;
-long dimension = 100;
+long Threads = 16;
+long dimensionR = 50;
+long dimension = 50;
 long binaryFlag = 0;
 
 float *entityVec, *relationVec;
